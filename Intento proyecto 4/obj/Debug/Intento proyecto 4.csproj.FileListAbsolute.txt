@@ -1,0 +1,36 @@
+E:\Intento proyecto 4\Intento proyecto 4\bin\Debug\Intento proyecto 4.exe.config
+E:\Intento proyecto 4\Intento proyecto 4\bin\Debug\Intento proyecto 4.exe
+E:\Intento proyecto 4\Intento proyecto 4\bin\Debug\Intento proyecto 4.pdb
+E:\Intento proyecto 4\Intento proyecto 4\obj\Debug\Intento proyecto 4.csprojResolveAssemblyReference.cache
+E:\Intento proyecto 4\Intento proyecto 4\obj\Debug\Intento_proyecto_4.Form1.resources
+E:\Intento proyecto 4\Intento proyecto 4\obj\Debug\Intento_proyecto_4.Properties.Resources.resources
+E:\Intento proyecto 4\Intento proyecto 4\obj\Debug\Intento proyecto 4.csproj.GenerateResource.Cache
+E:\Intento proyecto 4\Intento proyecto 4\obj\Debug\Intento proyecto 4.exe
+E:\Intento proyecto 4\Intento proyecto 4\obj\Debug\Intento proyecto 4.pdb
+E:\Intento proyecto 4\Intento proyecto 4\bin\Debug\MySql.Data.dll
+E:\Intento proyecto 4\Intento proyecto 4\bin\Debug\MySql.Data.xml
+E:\Intento proyecto 4\Intento proyecto 4\obj\Debug\Intento_proyecto_4.Catalogo.resources
+E:\Intento proyecto 4\Intento proyecto 4\obj\Debug\Intento_proyecto_4.Productos.Catalogo_Menu.resources
+G:\Intento proyecto 4\Intento proyecto 4\bin\Debug\Intento proyecto 4.exe.config
+G:\Intento proyecto 4\Intento proyecto 4\obj\Debug\Intento proyecto 4.exe
+G:\Intento proyecto 4\Intento proyecto 4\obj\Debug\Intento proyecto 4.pdb
+F:\Intento proyecto 4\Intento proyecto 4\bin\Debug\Intento proyecto 4.exe.config
+F:\Intento proyecto 4\Intento proyecto 4\obj\Debug\Intento proyecto 4.exe
+F:\Intento proyecto 4\Intento proyecto 4\obj\Debug\Intento proyecto 4.pdb
+F:\Intento proyecto 4\Intento proyecto 4\bin\Debug\Intento proyecto 4.exe
+F:\Intento proyecto 4\Intento proyecto 4\bin\Debug\Intento proyecto 4.pdb
+F:\Intento proyecto 4\Intento proyecto 4\bin\Debug\MySql.Data.dll
+F:\Intento proyecto 4\Intento proyecto 4\bin\Debug\MySql.Data.xml
+F:\Intento proyecto 4\Intento proyecto 4\obj\Debug\Intento proyecto 4.csprojResolveAssemblyReference.cache
+F:\Intento proyecto 4\Intento proyecto 4\obj\Debug\Intento_proyecto_4.Catalogo.resources
+F:\Intento proyecto 4\Intento proyecto 4\obj\Debug\Intento_proyecto_4.Form1.resources
+F:\Intento proyecto 4\Intento proyecto 4\obj\Debug\Intento_proyecto_4.Productos.Catalogo_Menu.resources
+F:\Intento proyecto 4\Intento proyecto 4\obj\Debug\Intento_proyecto_4.Properties.Resources.resources
+F:\Intento proyecto 4\Intento proyecto 4\obj\Debug\Intento_proyecto_4.Sucursales.Sucursales_menu.resources
+F:\Intento proyecto 4\Intento proyecto 4\obj\Debug\Intento_proyecto_4.Tienda.Tienda_menu.resources
+F:\Intento proyecto 4\Intento proyecto 4\obj\Debug\Intento_proyecto_4.Vendedores.Vendedores_menu.resources
+F:\Intento proyecto 4\Intento proyecto 4\obj\Debug\Intento proyecto 4.csproj.GenerateResource.Cache
+E:\Intento proyecto 4\Intento proyecto 4\obj\Debug\Intento_proyecto_4.Sucursales.Sucursales_menu.resources
+E:\Intento proyecto 4\Intento proyecto 4\obj\Debug\Intento_proyecto_4.Tienda.Tienda_menu.resources
+E:\Intento proyecto 4\Intento proyecto 4\obj\Debug\Intento_proyecto_4.Vendedores.Vendedores_menu.resources
+F:\Intento proyecto 4\Intento proyecto 4\bin\Debug\Proyecto MySQL.exe.config

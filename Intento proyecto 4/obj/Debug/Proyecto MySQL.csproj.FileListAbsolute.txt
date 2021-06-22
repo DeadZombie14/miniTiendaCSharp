@@ -1,0 +1,93 @@
+F:\Intento proyecto 4\Intento proyecto 4\bin\Debug\Proyecto MySQL.exe.config
+F:\Intento proyecto 4\Intento proyecto 4\bin\Debug\Proyecto MySQL.exe
+F:\Intento proyecto 4\Intento proyecto 4\bin\Debug\Proyecto MySQL.pdb
+F:\Intento proyecto 4\Intento proyecto 4\bin\Debug\MySql.Data.dll
+F:\Intento proyecto 4\Intento proyecto 4\bin\Debug\MySql.Data.xml
+F:\Intento proyecto 4\Intento proyecto 4\obj\Debug\Proyecto MySQL.csprojResolveAssemblyReference.cache
+F:\Intento proyecto 4\Intento proyecto 4\obj\Debug\Intento_proyecto_4.Catalogo.resources
+F:\Intento proyecto 4\Intento proyecto 4\obj\Debug\Intento_proyecto_4.Form1.resources
+F:\Intento proyecto 4\Intento proyecto 4\obj\Debug\Intento_proyecto_4.Productos.Catalogo_Menu.resources
+F:\Intento proyecto 4\Intento proyecto 4\obj\Debug\Intento_proyecto_4.Properties.Resources.resources
+F:\Intento proyecto 4\Intento proyecto 4\obj\Debug\Intento_proyecto_4.Sucursales.Sucursales_menu.resources
+F:\Intento proyecto 4\Intento proyecto 4\obj\Debug\Intento_proyecto_4.Tienda.Tienda_menu.resources
+F:\Intento proyecto 4\Intento proyecto 4\obj\Debug\Intento_proyecto_4.Vendedores.Vendedores_menu.resources
+F:\Intento proyecto 4\Intento proyecto 4\obj\Debug\Proyecto MySQL.csproj.GenerateResource.Cache
+F:\Intento proyecto 4\Intento proyecto 4\obj\Debug\Proyecto MySQL.exe
+F:\Intento proyecto 4\Intento proyecto 4\obj\Debug\Proyecto MySQL.pdb
+F:\Intento proyecto 4\Intento proyecto 4\obj\Debug\Intento_proyecto_4.Productos.Catalogo_eliminar.resources
+F:\Intento proyecto 4\Intento proyecto 4\obj\Debug\Intento_proyecto_4.Productos.Catalogo_buscar.resources
+F:\Intento proyecto 4\Intento proyecto 4\obj\Debug\Intento_proyecto_4.Productos.Catalogo_editar.resources
+F:\Intento proyecto 4\Intento proyecto 4\obj\Debug\Intento_proyecto_4.Sucursales.Sucursales_anadir.resources
+F:\Intento proyecto 4\Intento proyecto 4\obj\Debug\Intento_proyecto_4.Sucursales.Sucursales_eliminar.resources
+F:\Intento proyecto 4\Intento proyecto 4\obj\Debug\Intento_proyecto_4.Sucursales.Sucursales_buscar.resources
+F:\Intento proyecto 4\Intento proyecto 4\obj\Debug\Intento_proyecto_4.Sucursales.Sucursales_editar.resources
+F:\Intento proyecto 4\Intento proyecto 4\obj\Debug\Intento_proyecto_4.Vendedores.Vendedores_anadir.resources
+F:\Intento proyecto 4\Intento proyecto 4\obj\Debug\Intento_proyecto_4.Vendedores.Vendedores_eliminar.resources
+F:\Intento proyecto 4\Intento proyecto 4\obj\Debug\Intento_proyecto_4.Vendedores.Vendedores_buscar.resources
+F:\Intento proyecto 4\Intento proyecto 4\obj\Debug\Intento_proyecto_4.Vendedores.Vendedores_editar.resources
+F:\Intento proyecto 4\Intento proyecto 4\obj\Debug\Intento_proyecto_4.Tienda.Tienda_anadir.resources
+E:\Intento proyecto 4\Intento proyecto 4\bin\Debug\Proyecto MySQL.exe.config
+E:\Intento proyecto 4\Intento proyecto 4\obj\Debug\Proyecto MySQL.exe
+E:\Intento proyecto 4\Intento proyecto 4\obj\Debug\Proyecto MySQL.pdb
+E:\Intento proyecto 4\Intento proyecto 4\bin\Debug\Proyecto MySQL.exe
+E:\Intento proyecto 4\Intento proyecto 4\bin\Debug\Proyecto MySQL.pdb
+E:\Intento proyecto 4\Intento proyecto 4\bin\Debug\MySql.Data.dll
+E:\Intento proyecto 4\Intento proyecto 4\bin\Debug\MySql.Data.xml
+E:\Intento proyecto 4\Intento proyecto 4\obj\Debug\Proyecto MySQL.csprojResolveAssemblyReference.cache
+E:\Intento proyecto 4\Intento proyecto 4\obj\Debug\Intento_proyecto_4.Catalogo.resources
+E:\Intento proyecto 4\Intento proyecto 4\obj\Debug\Intento_proyecto_4.Form1.resources
+E:\Intento proyecto 4\Intento proyecto 4\obj\Debug\Intento_proyecto_4.Productos.Catalogo_buscar.resources
+E:\Intento proyecto 4\Intento proyecto 4\obj\Debug\Intento_proyecto_4.Productos.Catalogo_editar.resources
+E:\Intento proyecto 4\Intento proyecto 4\obj\Debug\Intento_proyecto_4.Productos.Catalogo_eliminar.resources
+E:\Intento proyecto 4\Intento proyecto 4\obj\Debug\Intento_proyecto_4.Productos.Catalogo_Menu.resources
+E:\Intento proyecto 4\Intento proyecto 4\obj\Debug\Intento_proyecto_4.Properties.Resources.resources
+E:\Intento proyecto 4\Intento proyecto 4\obj\Debug\Intento_proyecto_4.Sucursales.Sucursales_anadir.resources
+E:\Intento proyecto 4\Intento proyecto 4\obj\Debug\Intento_proyecto_4.Sucursales.Sucursales_buscar.resources
+E:\Intento proyecto 4\Intento proyecto 4\obj\Debug\Intento_proyecto_4.Sucursales.Sucursales_editar.resources
+E:\Intento proyecto 4\Intento proyecto 4\obj\Debug\Intento_proyecto_4.Sucursales.Sucursales_eliminar.resources
+E:\Intento proyecto 4\Intento proyecto 4\obj\Debug\Intento_proyecto_4.Sucursales.Sucursales_menu.resources
+E:\Intento proyecto 4\Intento proyecto 4\obj\Debug\Intento_proyecto_4.Tienda.Tienda_anadir.resources
+E:\Intento proyecto 4\Intento proyecto 4\obj\Debug\Intento_proyecto_4.Tienda.Tienda_menu.resources
+E:\Intento proyecto 4\Intento proyecto 4\obj\Debug\Intento_proyecto_4.Vendedores.Vendedores_anadir.resources
+E:\Intento proyecto 4\Intento proyecto 4\obj\Debug\Intento_proyecto_4.Vendedores.Vendedores_buscar.resources
+E:\Intento proyecto 4\Intento proyecto 4\obj\Debug\Intento_proyecto_4.Vendedores.Vendedores_editar.resources
+E:\Intento proyecto 4\Intento proyecto 4\obj\Debug\Intento_proyecto_4.Vendedores.Vendedores_eliminar.resources
+E:\Intento proyecto 4\Intento proyecto 4\obj\Debug\Intento_proyecto_4.Vendedores.Vendedores_menu.resources
+E:\Intento proyecto 4\Intento proyecto 4\obj\Debug\Proyecto MySQL.csproj.GenerateResource.Cache
+E:\Intento proyecto 4\Intento proyecto 4\obj\Debug\Intento_proyecto_4.Tienda.Tienda_eliminar.resources
+E:\Intento proyecto 4\Intento proyecto 4\obj\Debug\Intento_proyecto_4.Tienda.Tienda_seleccionar_compra.resources
+F:\Intento proyecto 4\Intento proyecto 4\obj\Debug\Intento_proyecto_4.Tienda.Tienda_eliminar.resources
+F:\Intento proyecto 4\Intento proyecto 4\obj\Debug\Intento_proyecto_4.Tienda.Tienda_seleccionar_compra.resources
+F:\Intento proyecto 4\Intento proyecto 4\obj\Debug\Intento_proyecto_4.Tienda.Confirmar_Eliminar_Compra.resources
+E:\Intento proyecto 4\Intento proyecto 4\obj\Debug\Intento_proyecto_4.Tienda.Confirmar_Eliminar_Compra.resources
+C:\Users\MathierPC\Downloads\Intento proyecto 4\Intento proyecto 4\bin\Debug\Proyecto MySQL.exe.config
+C:\Users\MathierPC\Downloads\Intento proyecto 4\Intento proyecto 4\obj\Debug\Proyecto MySQL.exe
+C:\Users\MathierPC\Downloads\Intento proyecto 4\Intento proyecto 4\obj\Debug\Proyecto MySQL.pdb
+C:\Users\MathierPC\Downloads\Intento proyecto 4\Intento proyecto 4\bin\Debug\Proyecto MySQL.exe
+C:\Users\MathierPC\Downloads\Intento proyecto 4\Intento proyecto 4\bin\Debug\Proyecto MySQL.pdb
+C:\Users\MathierPC\Downloads\Intento proyecto 4\Intento proyecto 4\bin\Debug\MySql.Data.dll
+C:\Users\MathierPC\Downloads\Intento proyecto 4\Intento proyecto 4\bin\Debug\MySql.Data.xml
+C:\Users\MathierPC\Downloads\Intento proyecto 4\Intento proyecto 4\obj\Debug\Proyecto MySQL.csprojResolveAssemblyReference.cache
+C:\Users\MathierPC\Downloads\Intento proyecto 4\Intento proyecto 4\obj\Debug\Intento_proyecto_4.Catalogo.resources
+C:\Users\MathierPC\Downloads\Intento proyecto 4\Intento proyecto 4\obj\Debug\Intento_proyecto_4.Form1.resources
+C:\Users\MathierPC\Downloads\Intento proyecto 4\Intento proyecto 4\obj\Debug\Intento_proyecto_4.Productos.Catalogo_buscar.resources
+C:\Users\MathierPC\Downloads\Intento proyecto 4\Intento proyecto 4\obj\Debug\Intento_proyecto_4.Productos.Catalogo_editar.resources
+C:\Users\MathierPC\Downloads\Intento proyecto 4\Intento proyecto 4\obj\Debug\Intento_proyecto_4.Productos.Catalogo_eliminar.resources
+C:\Users\MathierPC\Downloads\Intento proyecto 4\Intento proyecto 4\obj\Debug\Intento_proyecto_4.Productos.Catalogo_Menu.resources
+C:\Users\MathierPC\Downloads\Intento proyecto 4\Intento proyecto 4\obj\Debug\Intento_proyecto_4.Properties.Resources.resources
+C:\Users\MathierPC\Downloads\Intento proyecto 4\Intento proyecto 4\obj\Debug\Intento_proyecto_4.Sucursales.Sucursales_anadir.resources
+C:\Users\MathierPC\Downloads\Intento proyecto 4\Intento proyecto 4\obj\Debug\Intento_proyecto_4.Sucursales.Sucursales_buscar.resources
+C:\Users\MathierPC\Downloads\Intento proyecto 4\Intento proyecto 4\obj\Debug\Intento_proyecto_4.Sucursales.Sucursales_editar.resources
+C:\Users\MathierPC\Downloads\Intento proyecto 4\Intento proyecto 4\obj\Debug\Intento_proyecto_4.Sucursales.Sucursales_eliminar.resources
+C:\Users\MathierPC\Downloads\Intento proyecto 4\Intento proyecto 4\obj\Debug\Intento_proyecto_4.Sucursales.Sucursales_menu.resources
+C:\Users\MathierPC\Downloads\Intento proyecto 4\Intento proyecto 4\obj\Debug\Intento_proyecto_4.Tienda.Confirmar_Eliminar_Compra.resources
+C:\Users\MathierPC\Downloads\Intento proyecto 4\Intento proyecto 4\obj\Debug\Intento_proyecto_4.Tienda.Tienda_anadir.resources
+C:\Users\MathierPC\Downloads\Intento proyecto 4\Intento proyecto 4\obj\Debug\Intento_proyecto_4.Tienda.Tienda_eliminar.resources
+C:\Users\MathierPC\Downloads\Intento proyecto 4\Intento proyecto 4\obj\Debug\Intento_proyecto_4.Tienda.Tienda_menu.resources
+C:\Users\MathierPC\Downloads\Intento proyecto 4\Intento proyecto 4\obj\Debug\Intento_proyecto_4.Tienda.Tienda_seleccionar_compra.resources
+C:\Users\MathierPC\Downloads\Intento proyecto 4\Intento proyecto 4\obj\Debug\Intento_proyecto_4.Vendedores.Vendedores_anadir.resources
+C:\Users\MathierPC\Downloads\Intento proyecto 4\Intento proyecto 4\obj\Debug\Intento_proyecto_4.Vendedores.Vendedores_buscar.resources
+C:\Users\MathierPC\Downloads\Intento proyecto 4\Intento proyecto 4\obj\Debug\Intento_proyecto_4.Vendedores.Vendedores_editar.resources
+C:\Users\MathierPC\Downloads\Intento proyecto 4\Intento proyecto 4\obj\Debug\Intento_proyecto_4.Vendedores.Vendedores_eliminar.resources
+C:\Users\MathierPC\Downloads\Intento proyecto 4\Intento proyecto 4\obj\Debug\Intento_proyecto_4.Vendedores.Vendedores_menu.resources
+C:\Users\MathierPC\Downloads\Intento proyecto 4\Intento proyecto 4\obj\Debug\Proyecto MySQL.csproj.GenerateResource.Cache

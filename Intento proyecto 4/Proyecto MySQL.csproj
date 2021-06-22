@@ -1,0 +1,328 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{ADA44A6F-8C57-4B53-A5A7-FD1F837A8F98}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Intento_proyecto_4</RootNamespace>
+    <AssemblyName>Proyecto MySQL</AssemblyName>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="MySql.Data, Version=6.9.9.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Clases\FuncionesTienda.cs" />
+    <Compile Include="Clases\FuncionesVendedores.cs" />
+    <Compile Include="Clases\FuncionesSucursales.cs" />
+    <Compile Include="Productos\Catalogo_anadir.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Productos\Catalogo_anadir.Designer.cs">
+      <DependentUpon>Catalogo_anadir.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Clases\Conexionado.cs" />
+    <Compile Include="Clases\FuncionesCatalogo.cs" />
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Productos\Catalogo_buscar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Productos\Catalogo_buscar.Designer.cs">
+      <DependentUpon>Catalogo_buscar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Productos\Catalogo_editar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Productos\Catalogo_editar.Designer.cs">
+      <DependentUpon>Catalogo_editar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Productos\Catalogo_eliminar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Productos\Catalogo_eliminar.Designer.cs">
+      <DependentUpon>Catalogo_eliminar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Productos\Catalogo_Menu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Productos\Catalogo_Menu.Designer.cs">
+      <DependentUpon>Catalogo_Menu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Sucursales\Sucursales_anadir.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Sucursales\Sucursales_anadir.Designer.cs">
+      <DependentUpon>Sucursales_anadir.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Sucursales\Sucursales_buscar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Sucursales\Sucursales_buscar.Designer.cs">
+      <DependentUpon>Sucursales_buscar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Sucursales\Sucursales_editar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Sucursales\Sucursales_editar.Designer.cs">
+      <DependentUpon>Sucursales_editar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Sucursales\Sucursales_eliminar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Sucursales\Sucursales_eliminar.Designer.cs">
+      <DependentUpon>Sucursales_eliminar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Sucursales\Sucursales_menu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Sucursales\Sucursales_menu.Designer.cs">
+      <DependentUpon>Sucursales_menu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Tienda\Confirmar_Eliminar_Compra.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Tienda\Confirmar_Eliminar_Compra.Designer.cs">
+      <DependentUpon>Confirmar_Eliminar_Compra.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Tienda\Tienda_anadir.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Tienda\Tienda_anadir.Designer.cs">
+      <DependentUpon>Tienda_anadir.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Tienda\Tienda_eliminar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Tienda\Tienda_eliminar.Designer.cs">
+      <DependentUpon>Tienda_eliminar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Tienda\Tienda_menu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Tienda\Tienda_menu.Designer.cs">
+      <DependentUpon>Tienda_menu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Tienda\Tienda_seleccionar_compra.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Tienda\Tienda_seleccionar_compra.Designer.cs">
+      <DependentUpon>Tienda_seleccionar_compra.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Vendedores\Vendedores_anadir.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Vendedores\Vendedores_anadir.Designer.cs">
+      <DependentUpon>Vendedores_anadir.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Vendedores\Vendedores_buscar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Vendedores\Vendedores_buscar.Designer.cs">
+      <DependentUpon>Vendedores_buscar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Vendedores\Vendedores_editar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Vendedores\Vendedores_editar.Designer.cs">
+      <DependentUpon>Vendedores_editar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Vendedores\Vendedores_eliminar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Vendedores\Vendedores_eliminar.Designer.cs">
+      <DependentUpon>Vendedores_eliminar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Vendedores\Vendedores_menu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Vendedores\Vendedores_menu.Designer.cs">
+      <DependentUpon>Vendedores_menu.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Productos\Catalogo_anadir.resx">
+      <DependentUpon>Catalogo_anadir.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Productos\Catalogo_buscar.resx">
+      <DependentUpon>Catalogo_buscar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Productos\Catalogo_editar.resx">
+      <DependentUpon>Catalogo_editar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Productos\Catalogo_eliminar.resx">
+      <DependentUpon>Catalogo_eliminar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Productos\Catalogo_Menu.resx">
+      <DependentUpon>Catalogo_Menu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="Sucursales\Sucursales_Anadir.resx">
+      <DependentUpon>Sucursales_anadir.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Sucursales\Sucursales_buscar.resx">
+      <DependentUpon>Sucursales_buscar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Sucursales\Sucursales_editar.resx">
+      <DependentUpon>Sucursales_editar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Sucursales\Sucursales_eliminar.resx">
+      <DependentUpon>Sucursales_eliminar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Sucursales\Sucursales_menu.resx">
+      <DependentUpon>Sucursales_menu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Tienda\Confirmar_Eliminar_Compra.resx">
+      <DependentUpon>Confirmar_Eliminar_Compra.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Tienda\Tienda_anadir.resx">
+      <DependentUpon>Tienda_anadir.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Tienda\Tienda_eliminar.resx">
+      <DependentUpon>Tienda_eliminar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Tienda\Tienda_menu.resx">
+      <DependentUpon>Tienda_menu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Tienda\Tienda_seleccionar_compra.resx">
+      <DependentUpon>Tienda_seleccionar_compra.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Vendedores\Vendedores_anadir.resx">
+      <DependentUpon>Vendedores_anadir.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Vendedores\Vendedores_buscar.resx">
+      <DependentUpon>Vendedores_buscar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Vendedores\Vendedores_editar.resx">
+      <DependentUpon>Vendedores_editar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Vendedores\Vendedores_eliminar.resx">
+      <DependentUpon>Vendedores_eliminar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Vendedores\Vendedores_menu.resx">
+      <DependentUpon>Vendedores_menu.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\3351929.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\productoscoviran_marcapropia.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\worker.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cart.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\imagen_tienda.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\imagen_tienda1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\imagen_tienda_3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icono_anadir.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icono_actualizar.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icono_eliminar.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icono_eliminar2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icono_buscar.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icono_buscar1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icono_editar.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icono volver.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icono_anadir2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icono_editar2.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
